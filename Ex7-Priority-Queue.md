@@ -11,10 +11,11 @@ To formulate the C code to display the elements of the priority queue after inse
 5. Repeat the operations based on user choice until exit is selected.  
 
 ## Program:
-
+```
 Developed by: ALFRED A B
 
 RegisterNumber: 212222110002
+```
 
 ```c
 #include <stdio.h>
