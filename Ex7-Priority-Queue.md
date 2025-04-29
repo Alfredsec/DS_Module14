@@ -100,7 +100,8 @@ int main() {
 ```
 
 ## Output:
-![](Screenshot%202025-04-29%20112025.png)
+
+![Screenshot 2025-04-29 112025](https://github.com/user-attachments/assets/29c84367-c4f1-40ae-a22d-ff299174fd74)
 
 
 ## Result:
