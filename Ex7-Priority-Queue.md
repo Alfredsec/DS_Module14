@@ -13,7 +13,6 @@ To formulate the C code to display the elements of the priority queue after inse
 ## Program:
 ```
 Developed by: ALFRED A B
-
 RegisterNumber: 212222110002
 ```
 
